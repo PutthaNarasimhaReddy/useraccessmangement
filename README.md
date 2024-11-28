@@ -43,7 +43,8 @@ Database: PostgreSQL.
 
 
 3. Roles Summary
-Role	Responsibilities	Restrictions
-Employee	Request access	Cannot create software or approve requests.
-Manager	Approve requests	Cannot request access or create software.
-Admin	Full control	None
+   
+Role	   Responsibilities	   Restrictions
+Employee	Request access	   Cannot create software or approve requests.
+Manager	 Approve requests	   Cannot request access or create software.
+Admin	 Full control	          None
